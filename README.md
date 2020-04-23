@@ -1,6 +1,6 @@
 # 丧心病狂的Android混淆文件生成器
 
-
+https://www.jianshu.com/p/4f3926b263a5
 ## 效果
 
 混淆前
